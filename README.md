@@ -43,8 +43,8 @@ Module 4 - Privileged Identity Management (PIM)
 
 📄 Portfolio Document
 
-Full step-by-step documentation with 98 screenshots:
-👉 [IAM_Portfolio_Redacted.docx](./IAM_Portfolio_Redacted.docx)
+Full step-by-step documentation with screenshots:
+👉 https://github.com/MayankKhurasiya/Microsoft-Entra-IAM-Lab/blob/main/IAM_Portfolio_Final.pdf
 
 🛠️ Environment
 
